@@ -44,7 +44,7 @@ python main.py --train
 
 Predict the category of a single receipt:
 ```
-python ReceiptCategoryClassifier.py --predict "Your OCR receipt text here"
+python main.py --predict "Your OCR receipt text here"
 ```
 
 ## Contributing
